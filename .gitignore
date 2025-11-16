@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+
+test1.ipynb
+example.py
+ant_colony.py
